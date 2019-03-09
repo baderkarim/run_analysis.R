@@ -1,0 +1,3 @@
+- CodeBook.md describes all the work done on the data
+- run_analysis.R answers the 5 questions proposed in the project
+- FinalData.txt is the output to have after going through all the sequences described above.
